@@ -1,4 +1,5 @@
 streamlit
+plotly
 pandas
 numpy
 scikit-learn
@@ -8,4 +9,5 @@ openai>=1.0.0
 python-dotenv
 tqdm
 uvicorn
+
 fastapi
