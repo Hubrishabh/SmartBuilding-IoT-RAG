@@ -1,0 +1,11 @@
+Building Specification (Excerpt)
+
+Zones & Sensors:
+- Zone A: open-plan office; occupancy sensors feed BMS.
+- Zone B: meeting rooms; CO2 and temperature sensors.
+- Air Handling Units: AHU-1 (Zone A), AHU-2 (Zone B), AHU-3 (Common areas).
+
+Operational Policies:
+- Occupancy-based ventilation: reduce airflow when occupancy < 30%.
+- Night setback: raise cooling setpoint by 2°C after 8 PM.
+- Weekly maintenance windows: Saturday 8–10 AM.

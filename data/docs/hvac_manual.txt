@@ -1,0 +1,19 @@
+HVAC Maintenance Manual (Excerpt)
+
+Safety Precautions:
+- Isolate power before inspection.
+- Wear vibration-dampening gloves and hearing protection.
+- Confirm lock-out/tag-out procedures.
+
+Vibration Troubleshooting:
+- If vibration exceeds 0.7 mm/s, check fan imbalance and misalignment.
+- Inspect bearings for wear; re-lubricate according to schedule.
+- Tighten mounting bolts; ensure anti-vibration pads are intact.
+- Verify rotor cleanliness; remove dust buildup on blades.
+- Check belt tension; replace if frayed.
+
+High Temperature Guidance:
+- If supply air temperature > 28°C, inspect cooling coil fouling.
+- Confirm chilled-water supply temperature is within spec.
+- Verify valves and actuators are responsive; recalibrate if needed.
+- Inspect and clean air filters; high ∆P indicates clogging.

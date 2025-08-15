@@ -1,0 +1,17 @@
+[
+  {
+    "question": "AHU vibration is high. What should I check first?",
+    "answer_source": "hvac_manual.txt",
+    "equipment": "hvac"
+  },
+  {
+    "question": "How can I optimize chiller energy efficiency?",
+    "answer_source": "chiller_manual.txt",
+    "equipment": "chiller"
+  },
+  {
+    "question": "What is the occupancy-based ventilation policy?",
+    "answer_source": "building_spec.txt",
+    "equipment": "building"
+  }
+]

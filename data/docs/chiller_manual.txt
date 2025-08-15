@@ -1,0 +1,11 @@
+Chiller Maintenance Manual (Excerpt)
+
+Startup Checklist:
+- Verify condenser water pump status and flow.
+- Check refrigerant level; inspect for leaks.
+- Confirm compressor oil level and differential pressure.
+
+Energy Optimization:
+- Run at highest possible chilled-water setpoint that meets comfort.
+- Use variable-speed drives to modulate load efficiently.
+- Sequence multiple chillers to operate near best COP.
