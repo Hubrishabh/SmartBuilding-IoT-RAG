@@ -1,5 +1,6 @@
 streamlit
 plotly
+chromadb
 pandas
 numpy
 scikit-learn
@@ -11,3 +12,4 @@ tqdm
 uvicorn
 
 fastapi
+
